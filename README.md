@@ -11,7 +11,7 @@ Required for any Path
 - Udemy for Business
 - [Git and Github](https://www.udemy.com/github-ultimate/)
 
-## 🎨 Frontend Roadmap
+## 🎨 Front-End Roadmap
 - [Websites with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [Projects with Complete Javascript](https://www.udemy.com/the-complete-javascript-course/)
 - [Understanding NPM](https://www.udemy.com/understanding-npm/)
@@ -28,7 +28,7 @@ Required for any Path
 - [AWS Certified Developer](https://www.udemy.com/aws-certified-developer-associate/)
 - [AWS Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
 
-## 👽 Back-end Roadmap
+## 👽 Back-End Roadmap
 > I Mostly Use Java
 - [Spring 5 for Beginner](https://www.udemy.com/spring-framework-5-beginner-to-guru/)
 - [Spring Boot Testing](https://www.udemy.com/testing-spring-boot-beginner-to-guru/)
@@ -46,10 +46,10 @@ Required for any Path
 - [Java Websocket](https://www.udemy.com/java-socket-programming-build-a-chat-application/)
 - [Modern GraphQL](https://www.udemy.com/graphql-bootcamp/)
 - [GraphDB and Neo4j](https://www.udemy.com/neo4j-foundations/)
+- [AWS Serverless](https://www.udemy.com/aws-serverless-a-complete-introduction/)
 - [AWS Certified Developer](https://www.udemy.com/aws-certified-developer-associate/)
 - [AWS Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
-- [AWS Serverless](https://www.udemy.com/aws-serverless-a-complete-introduction/)
-> Other Language
+> Other Languages
 - [Complete Node JS](https://www.udemy.com/the-complete-nodejs-developer-course-2/)
 - [Django Python](https://www.udemy.com/django-python/)
 - [Developer Guide Golang](https://www.udemy.com/go-the-complete-developers-guide/)
@@ -68,7 +68,18 @@ Required for any Path
 - [Elastic Stack and Kibana](https://www.udemy.com/elasticsearch-6-and-elastic-stack-in-depth-and-hands-on/)
 - [Nagios Monitoring](https://www.udemy.com/setting-up-nagios-4/)
 - [New Relic APM](https://www.udemy.com/new-relic-apm-application-performance-management-for-devops/)
+- [AWS Serverless](https://www.udemy.com/aws-serverless-a-complete-introduction/)
 - [AWS Certified SysOps](https://www.udemy.com/aws-certified-sysops-administrator-associate/)
 - [AWS Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
-- [AWS Serverless](https://www.udemy.com/aws-serverless-a-complete-introduction/)
+
+## 🎯 QA Roadmap
+- [Software Quality Assurance](https://www.udemy.com/qa-software-testing-training-course/)
+- [Katalon for Beginner](https://www.udemy.com/katalon-studio-step-by-step-for-beginners/)
+- [Katalon to Advance](https://www.udemy.com/katalonstudio/)
+- [Jmeter for Beginner](https://www.udemy.com/basic-to-expert-jmeter/)
+- [Jmeter Load Testing](https://www.udemy.com/learn-jmeter-from-scratch-performance-load-testing-tool/)
+- [Appium Mobile Testing](https://www.udemy.com/appium-selendroid-tutorials/)
+- [Websites with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/)
+- [Docker, Jenkins, CI Pipeline](https://www.udemy.com/devops-training/)
+
 
