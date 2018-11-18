@@ -32,7 +32,6 @@ Required for any Path
 > I Mostly Use Java
 - [Spring 5 for Beginner](https://www.udemy.com/spring-framework-5-beginner-to-guru/)
 - [Spring Boot Testing](https://www.udemy.com/testing-spring-boot-beginner-to-guru/)
-- [Reactive Programming with Spring](https://www.udemy.com/reactive-programming-with-spring-framework-5/)
 - [OWASP Fundamental](https://www.udemy.com/owasp-threats-fundamentals/)
 - [Design Pattern in Java](https://www.udemy.com/basics-of-software-architecture-design-in-java/)
 - [SQL and PostgreSQL](https://www.udemy.com/sql-and-postgresql-for-beginners/)
