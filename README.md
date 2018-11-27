@@ -26,6 +26,7 @@ Required for any Path
 - [Search Engine Optimization](https://www.udemy.com/search-engine-optimization-for-beginners-seo-that-works/)
 - [Server Side Rendering with Nuxt](https://www.udemy.com/nuxtjs-vuejs-on-steroids/)
 - [Games with HTML5 Canvas](https://www.udemy.com/how-to-program-games/)
+> Get ready for certification
 - [AWS Certified Developer](https://www.udemy.com/aws-certified-developer-associate/)
 - [AWS Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
 
@@ -47,6 +48,7 @@ Required for any Path
 - [Java Websocket](https://www.udemy.com/java-socket-programming-build-a-chat-application/)
 - [Modern GraphQL](https://www.udemy.com/graphql-bootcamp/)
 - [GraphDB and Neo4j](https://www.udemy.com/neo4j-foundations/)
+> Get ready for certification
 - [AWS Serverless](https://www.udemy.com/aws-serverless-a-complete-introduction/)
 - [AWS Certified Developer](https://www.udemy.com/aws-certified-developer-associate/)
 - [AWS Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
@@ -61,14 +63,15 @@ Required for any Path
 - [Linux in 5 days](https://www.udemy.com/learn-linux-in-5-days/)
 - [Linux Centos 7](https://www.udemy.com/centos-7-system-engineer-complete-course/)
 - [Nginx for Beginner](https://www.udemy.com/nginx-beginner-to-advanced/)
-- [Net DevOps with Python](https://www.udemy.com/net-devops-cisco-python-automation-netconf-sdn-docker/)
 - [Mastering Ansible](https://www.udemy.com/mastering-ansible/)
-- [Terraform with AWS](https://www.udemy.com/terraform-with-aws-and-infrastructure-as-code-with-terraform/)
-- [Docker and Kubernetes](https://www.udemy.com/docker-and-kubernetes-the-complete-guide/)
 - [Docker, Jenkins, CI Pipeline](https://www.udemy.com/devops-training/)
+- [Docker and Kubernetes](https://www.udemy.com/docker-and-kubernetes-the-complete-guide/)
+> You are at check point
 - [Elastic Stack and Kibana](https://www.udemy.com/elasticsearch-6-and-elastic-stack-in-depth-and-hands-on/)
-- [Nagios Monitoring](https://www.udemy.com/setting-up-nagios-4/)
 - [New Relic APM](https://www.udemy.com/new-relic-apm-application-performance-management-for-devops/)
+- [Terraform with AWS](https://www.udemy.com/terraform-with-aws-and-infrastructure-as-code-with-terraform/)
+- [Nagios Monitoring](https://www.udemy.com/setting-up-nagios-4/)
+- [Net DevOps with Python](https://www.udemy.com/net-devops-cisco-python-automation-netconf-sdn-docker/)
 - [AWS Serverless](https://www.udemy.com/aws-serverless-a-complete-introduction/)
 - [AWS Certified SysOps](https://www.udemy.com/aws-certified-sysops-administrator-associate/)
 - [AWS Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
