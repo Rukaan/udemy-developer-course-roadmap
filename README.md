@@ -19,6 +19,7 @@ Required for any Path
 - [Advance CSS and SASS](https://www.udemy.com/advanced-css-and-sass/)
 - [Webpack and Babel CLI](https://www.udemy.com/command-line-instrument-npm-babel-and-webpack-crash-course/)
 - [React-Redux](https://www.udemy.com/react-the-complete-guide-incl-redux/) or [Vue-Vuex](https://www.udemy.com/vuejs-2-the-complete-guide/) or [Angular 7](https://www.udemy.com/the-complete-guide-to-angular-2/)
+> You are at check point
 - [Progressive Web App](https://www.udemy.com/progressive-web-app-pwa-the-complete-guide/)
 - [WebSocket with Socket IO](https://www.udemy.com/socketio-with-websockets-the-details/)
 - [React Native-Redux](https://www.udemy.com/the-complete-react-native-and-redux-course/) 
@@ -32,12 +33,13 @@ Required for any Path
 > I Mostly Use Java
 - [Spring 5 for Beginner](https://www.udemy.com/spring-framework-5-beginner-to-guru/)
 - [Spring Boot Testing](https://www.udemy.com/testing-spring-boot-beginner-to-guru/)
-- [OWASP Fundamental](https://www.udemy.com/owasp-threats-fundamentals/)
 - [Design Pattern in Java](https://www.udemy.com/basics-of-software-architecture-design-in-java/)
 - [SQL and PostgreSQL](https://www.udemy.com/sql-and-postgresql-for-beginners/)
 - [NoSQL and Mongo](https://www.udemy.com/learn-mongodb-leading-nosql-database-from-scratch/)
+> You are at check point
 - [Redis with Spring Data](https://www.udemy.com/learn-redis-and-utilize-jedis-with-spring-data-redis/)
 - [OAuth 2 API Security](https://www.udemy.com/learn-oauth-2/)
+- [OWASP Fundamental](https://www.udemy.com/owasp-threats-fundamentals/)
 - [Kafka for Beginner](https://www.udemy.com/apache-kafka/)
 - [Elasticsearch and Kibana](https://www.udemy.com/elasticsearch-complete-guide/)
 - [Docker and Kubernetes](https://www.udemy.com/docker-and-kubernetes-the-complete-guide/)
