@@ -72,6 +72,7 @@ Required for any Path
 - [Terraform with AWS](https://www.udemy.com/terraform-with-aws-and-infrastructure-as-code-with-terraform/)
 - [Nagios Monitoring](https://www.udemy.com/setting-up-nagios-4/)
 - [Net DevOps with Python](https://www.udemy.com/net-devops-cisco-python-automation-netconf-sdn-docker/)
+> Get ready for certification
 - [AWS Serverless](https://www.udemy.com/aws-serverless-a-complete-introduction/)
 - [AWS Certified SysOps](https://www.udemy.com/aws-certified-sysops-administrator-associate/)
 - [AWS Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
