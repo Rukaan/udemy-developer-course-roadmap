@@ -81,9 +81,11 @@ Required for any Path
 - [Software Quality Assurance](https://www.udemy.com/qa-software-testing-training-course/)
 - [Katalon for Beginner](https://www.udemy.com/katalon-studio-step-by-step-for-beginners/)
 - [Katalon to Advance](https://www.udemy.com/katalonstudio/)
+> You are at check point
 - [Jmeter for Beginner](https://www.udemy.com/basic-to-expert-jmeter/)
 - [Jmeter Load Testing](https://www.udemy.com/learn-jmeter-from-scratch-performance-load-testing-tool/)
 - [Appium Mobile Testing](https://www.udemy.com/appium-selendroid-tutorials/)
+> Try to know more
 - [Websites with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [Docker, Jenkins, CI Pipeline](https://www.udemy.com/devops-training/)
 
