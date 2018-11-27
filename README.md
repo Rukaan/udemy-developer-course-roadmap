@@ -63,11 +63,11 @@ Required for any Path
 - [Linux in 5 days](https://www.udemy.com/learn-linux-in-5-days/)
 - [Linux Centos 7](https://www.udemy.com/centos-7-system-engineer-complete-course/)
 - [Nginx for Beginner](https://www.udemy.com/nginx-beginner-to-advanced/)
-- [Mastering Ansible](https://www.udemy.com/mastering-ansible/)
 - [Docker, Jenkins, CI Pipeline](https://www.udemy.com/devops-training/)
-- [Docker and Kubernetes](https://www.udemy.com/docker-and-kubernetes-the-complete-guide/)
-> You are at check point
 - [Elastic Stack and Kibana](https://www.udemy.com/elasticsearch-6-and-elastic-stack-in-depth-and-hands-on/)
+> You are at check point
+- [Docker and Kubernetes](https://www.udemy.com/docker-and-kubernetes-the-complete-guide/)
+- [Mastering Ansible](https://www.udemy.com/mastering-ansible/)
 - [New Relic APM](https://www.udemy.com/new-relic-apm-application-performance-management-for-devops/)
 - [Terraform with AWS](https://www.udemy.com/terraform-with-aws-and-infrastructure-as-code-with-terraform/)
 - [Nagios Monitoring](https://www.udemy.com/setting-up-nagios-4/)
